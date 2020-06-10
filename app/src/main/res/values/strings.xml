@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Explosion Animation</string>
+    <string name="press_me">Press Me</string>
+    <string name="animated_explosion">Animated Explosion</string>
+</resources>
